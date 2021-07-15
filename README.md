@@ -1,2 +1,2 @@
-# Neural Network Optimizers ![streamlit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiscuss.streamlit.io%2F&psig=AOvVaw0Inqx3oDZYqf7QoQ_wSdtX&ust=1626445668617000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiI0Lak5fECFQAAAAAdAAAAABAJ)
+# Neural Network Optimizers ![streamlit](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/z3ahdkytzwi1jxlpazje)
 A streamlit app implementing various optimizers from scratch
