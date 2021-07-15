@@ -4,7 +4,7 @@ from sklearn import datasets
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-from network import fit, backward, predict
+from Optimizers import fit, backward, predict
 
 
 def load_data(dataset_name):
@@ -43,7 +43,7 @@ def get_params(optim):
 
 
 def main():
-	st.write("# Neural Network Optimizers")
+	st.sidebar.write("# Neural Network Optimizers")
 
 	dataset_name = st.sidebar.selectbox("Select Dataset", ("Housing", "Diabetes"))
 	optim = st.sidebar.selectbox("Select Optimizer", ("GD", "Momentum", "RMSProp", "Adagrad", "Adam"))
