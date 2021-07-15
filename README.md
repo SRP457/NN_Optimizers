@@ -1,2 +1,2 @@
-# Streamlit
-Model deployment using streamlit
+# Neural Network Optimizers
+A streamlit app implementing various optimizers from scratch
