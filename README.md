@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Running the App
 1. Clone or download the repository
 2. Navigate to the **Streamlit** folder in your system
-3. Execute the following command and open the local url link given:
+3. Execute the following command and open localhost:8501
 ```
 streamlit run Regression.py
 ```
